@@ -3,7 +3,6 @@
 #include <math.h>
 #define f(x) 1 / (1 + x * x)
 int main(){
-    printf(“NAME - Harshit Bajeta \nSECTION - A \nROLL NO - 14\n”);
     printf("For the function f(x) = 1/(1 + x^2)\n");
     float lower, upper, integration = 0.0, stepSize, k;
     int i, subInterval;
@@ -17,12 +16,11 @@ int main(){
     integration = f(lower) + f(upper);
     for (i = 1; i <= subInterval - 1; i++){
         k = lower + i * stepSize;
-        if (i % 3 == 0){
+        if (i % 3 == 0)
             integration = integration + 2 * f(k);
-        }
-        else {
+        else
             integration = integration + 3 * f(k);
-        }}
+    }
     integration = integration * stepSize * 3 / 8;
     printf("\nRequired value of integration is: %.3f", integration);
     return 0;
