@@ -16,7 +16,7 @@ int main()
         m3=f((x+h/2.0),(y+m2*h/2.0));
         m4=f((x+h),(y+m3*h));
         m=((m1+2*m2+2*m3+m4)/6);
-        y=y+m*h;
+        y=y+m;
         x=x+h;
         printf("%f\t%f\n",x,y);
     }
