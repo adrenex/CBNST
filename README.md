@@ -10,7 +10,7 @@
   - [Gauss seidel](./Gauss_Seidel.c)
   - [Newton Forward Interpolation](./Newton Forward Interpolation .c)
   - [Newtons Backward Interpolation](./Backward.c)
-  - [Lagrange interpolation Method](./Lagrange's Interpolation.txt)
+  - [Lagrange interpolation Method](./Lagrange's Interpolation.c)
   - [Trapezoidal Method](./Trapazoidal.c)
   - [Simpson 1/3 Method](./Simpson's 1 by 3rd.c)
   - [Simpson 3/8 Method](./Simpson's 3 by 8th.c)
