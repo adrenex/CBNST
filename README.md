@@ -14,7 +14,7 @@
   - [Trapezoidal Method](./Trapazoidal.c)
   - [Simpson 1/3 Method](./Simpson's_1-3rd.c)
   - [Simpson 3/8 Method](./Simpson's_3-8th.c)
-  - [Runge–Kutta methods](./Runge_Kutta.c)
+  - [Runge Kutta methods](./Runge_Kutta.c)
   - [Euler's Method](./Euler's.c)
   - [Fit Parabola Curve Fitting](./Fit_Parabola_Curve_Fitting.c)
   - [Fit Straight Line Curve Fitting](./Fit_Straight_Line_Curve_Fitting.c)
