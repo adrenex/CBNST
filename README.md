@@ -2,7 +2,7 @@
 
 - **List Of Programs**
   - [Bisection Method](./Bisection.c)
-  - [Regula-Falsi Method](./Regula_Falsi.c)
+  - [Regula Falsi Method](./Regula_Falsi.c)
   - [Newton Raphson Method](./Newton_Raphson.c)
   - [Gauss Elimination](./Gauss_Elimination.c)
   - [Gauss Jordan](./Gauss_Jordan.c)
