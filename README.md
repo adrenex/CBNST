@@ -11,7 +11,7 @@
   - [Newton Forward Interpolation](./newtons_forward_ip.c)
   - [Newtons Backward Interpolation](./newtons_backword_ip.c)
   - [Lagrange interpolation Method](./lagrange_interpolation.txt)
-  - [Trapezoidal Method](./trapezoidal.c)
+  - [Trapezoidal Method](./Trapazoidal.c)
   - [Simpson 1/3 Method](./simpsons1by3.c)
   - [Simpson 3/8 Method](./simpsons3by8.c)
   - [Euler's Method](./euler.c)
