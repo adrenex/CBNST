@@ -20,3 +20,4 @@
   - [Fit Straight Line Curve Fitting](./Fit_Straight_Line_Curve_Fitting.c)
   - [Iteration Method](./Iteration_Method.c)
   - [Secant Method](./Secant_Method.c)
+  - [Quadratic Equation Method](./Quadratic.c)
