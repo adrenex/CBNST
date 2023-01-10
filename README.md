@@ -23,3 +23,4 @@
   - [Quadratic Equation Method](./Quadratic.c)
   - [Curve Fitting(Regression)](./Curve_fitting(Regression).c)
   - [Error Detection](./Error.c)
+  - [Euler Modified](./Euler's_Modified.c)
