@@ -8,7 +8,7 @@
   - [Gauss jordan](./Gauss_Jordan.c)
   - [Gauss jacobi](./Gauss_Jacobi.c)
   - [Gauss seidel](./Gauss_Seidel.c)
-  - [Newton Forward Interpolation](./Newton_Forward_Interpolation  .c)
+  - [Newton Forward Interpolation](./Newton_Forward_Interpolation.c)
   - [Newtons Backward Interpolation](./Backward.c)
   - [Lagrange interpolation Method](./Lagrange's_Interpolation.c)
   - [Trapezoidal Method](./Trapazoidal.c)
