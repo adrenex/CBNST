@@ -21,4 +21,5 @@
   - [Iteration Method](./Iteration_Method.c)
   - [Secant Method](./Secant_Method.c)
   - [Quadratic Equation Method](./Quadratic.c)
-  - [Curve fitting(Regression)](./Curve_fitting(Regression).c)
+  - [Curve Fitting(Regression)](./Curve_fitting(Regression).c)
+  - [Error Detection](./Error.c)
